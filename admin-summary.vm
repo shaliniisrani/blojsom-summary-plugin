@@ -1,0 +1,6 @@
+<th colspan="2">#adminResource('summary.text' 'Summary')</th>
+ <tr>
+   <td>#adminResource('summary.text' 'Summary')</td>
+   <td><textarea rows="5" cols="80" name="summary"></textarea> </td>
+ </tr>
+ 
